@@ -1,2 +1,7 @@
-# python-vision
-Python code for Google Vision API
+# Python code for Computer Vision
+
+
+## Setup
+pip install opencv-python
+
+import cv2
